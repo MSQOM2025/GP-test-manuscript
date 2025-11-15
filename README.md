@@ -1,6 +1,5 @@
-# Code for: A Robust Geometric Permutation Test for Equality of Covariance Matrices
-
-This repository contains the Python code for the real-data analysis in the manuscript "A Robust Geometric Permutation Test for Equality of Covariance Matrices in High-Dimensional Data" by Saleh Valenti.
+# Code for: A Computationally Efficient Permutation Test for Equality of Covariance Matrices in High-Dimensional Data
+This repository contains the Python code for the real-data analysis in the manuscript "A Computationally Efficient Permutation Test for Equality of Covariance Matrices in High-Dimensional Data" by Saleh Valenti.
 
 ## Data Source
 
