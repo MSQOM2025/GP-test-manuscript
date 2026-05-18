@@ -1,5 +1,5 @@
 # Code for: Fast and Scalable Detection of Differential Gene Co-Expression Networks in High-Dimensional Genomic Studies
-This repository contains the Python code for the real-data analysis in the manuscript "Fast and Scalable Detection of Differential Gene Co-Expression Networks in High-Dimensional Genomic Studies" by Saleh Valenti.
+This repository contains the Python code for the real-data analysis in the manuscript "Fast and Scalable Detection of Differential Gene Co-Expression Networks in High-Dimensional Genomic Studies" by Mohsen Salehi.
 
 ## Data Source
 
