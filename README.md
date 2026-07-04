@@ -1,5 +1,5 @@
-# Code for: A Scalable Frobenius-Norm Permutation Test for High-Dimensional Differential Covariance Matrices in Genomic Studies
-This repository contains the Python code for the real-data analysis in the manuscript "A Scalable Frobenius-Norm Permutation Test for High-Dimensional Differential Covariance Matrices in Genomic Studies".
+# Code for: Dense High-Dimensional Differential Covariance Testing: Asymptotic Normality and Minimax-Rate Consistency via a Frobenius-Norm Permutation Framework
+This repository contains the Python code for the real-data analysis in the manuscript "Dense High-Dimensional Differential Covariance Testing: Asymptotic Normality and Minimax-Rate Consistency via a Frobenius-Norm Permutation Framework".
 
 ## Data Source
 
