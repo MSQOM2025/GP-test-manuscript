@@ -1,5 +1,5 @@
 # Code for: A Scalable Frobenius-Norm Permutation Test for High-Dimensional Differential Covariance Matrices in Genomic Studies
-This repository contains the Python code for the real-data analysis in the manuscript "Fast and Scalable Detection of Differential Gene Co-Expression Networks in High-Dimensional Genomic Studies".
+This repository contains the Python code for the real-data analysis in the manuscript "A Scalable Frobenius-Norm Permutation Test for High-Dimensional Differential Covariance Matrices in Genomic Studies".
 
 ## Data Source
 
@@ -25,7 +25,8 @@ To reproduce the analysis and the results in Table 1 of the manuscript, follow t
 Run the data preprocessing script to download the raw data, filter it, and create the final analysis file.
 
 ```bash
-python real_data.py ```
+python real_data.py
+```
 This will produce the file `tcga_brca_top_genes_4_subtypes.csv`.
 
 *(Note: Please ensure the names `real_data.py` match your preprocessor script name)*
@@ -36,3 +37,13 @@ Run the main analysis script on the file generated in the previous step.
 
 ```bash
 python real_data_analysis.py
+```
+
+### Step 3: Post-hoc Biological Discovery
+
+After confirming global structural differences in the previous steps, run the pathway hub detection script to identify specific gene hubs and calculate pairwise structural dissimilarities.
+```bash
+
+python PathWayDetection.py
+```
+This script reproduces the Pairwise Frobenius Matrix and identifies top driver genes (like RAB25), providing the basis for the results in Section 6 and Discussion.
