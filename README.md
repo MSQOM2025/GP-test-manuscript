@@ -1,4 +1,4 @@
-# Code for: Fast and Scalable Detection of Differential Gene Co-Expression Networks in High-Dimensional Genomic Studies
+# Code for: A Scalable Frobenius-Norm Permutation Test for High-Dimensional Differential Covariance Matrices in Genomic Studies
 This repository contains the Python code for the real-data analysis in the manuscript "Fast and Scalable Detection of Differential Gene Co-Expression Networks in High-Dimensional Genomic Studies".
 
 ## Data Source
